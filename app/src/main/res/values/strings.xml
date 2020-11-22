@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiApp</string>
+    <string name="nombre">Nombre:</string>
+    <string name="f_nacimiento">Fecha Nac:</string>
+    <string name="genero">Género:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="enviar">Enviar</string>
+    <string name="titulo">Práctica 1 Android</string>
+    <string name="campo" />
+</resources>
