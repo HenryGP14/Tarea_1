@@ -28,7 +28,8 @@ public class actBienvenida extends AppCompatActivity {
             cadena = "Hola, bienvenida " + bundel.getString("nombre");
 
         cadena += " su fecha de nacimiento es " + bundel.getString("f_nacimiento")
-                + ", y su número de télefono es: " + bundel.getString("telefono") + " y lo registramos para contactarnos en un futuro próximo. \n\nGracias por su atención y confiar en nosotros.";
+                + ", y su número de télefono es: " + bundel.getString("telefono") + " y lo registramos para contactarnos en un futuro próximo. " +
+                "\n\nGracias por su atención y confiar en nosotros.";
         mensaje.setText(cadena);
 
     }
